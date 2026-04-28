@@ -105,7 +105,7 @@ Output:
 ---
 
 ## 👤 Author
-Arun Kumar Bhomi  
+- [@arunbhomi](https://github.com/arunbhomi) 
 This project was developed as part of research work conducted at Kathmandu Living Labs, focusing on geospatial data processing and address-based geocoding.
 
 ---
